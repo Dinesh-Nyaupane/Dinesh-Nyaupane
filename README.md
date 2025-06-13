@@ -1,4 +1,4 @@
-<img src="./a-landscape-oriented-github-profile-bann_NkwpLFTFT2maG0amwezrqg_HBjDyfqZSqqfB6zZ4qW0Ug.jpeg" alt="Banner">
+<img src="./sdsd.jpeg" alt="Banner">
 
 ## 💫 Hello World ! I am Dinesh, a Nepali Web developer.
 ### Studying BCA at Nepathya College currently on Sixth semester
